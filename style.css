@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn-success{
+    background-color: #4CAF4F !important;
+}
+.special-text-deep{
+    color: #4CAF4F !important;;
+}
+.bg-body-tertiary{
+    background-color: #F5F7FA !important;
+    
+}
+.p-text{
+    color: #717171 !important;
+
+}
+/* banner section  */
+.banner{
+    padding: 98px 60px !important;
+}
