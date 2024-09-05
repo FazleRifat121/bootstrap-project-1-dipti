@@ -15,7 +15,9 @@
 }
 .p-text{
     color: #717171 !important;
-
+}
+.section-padding{
+    padding: 48px 60px;
 }
 /* banner section  */
 .banner{
