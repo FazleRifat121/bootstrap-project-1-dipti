@@ -5,6 +5,7 @@
 }
 .btn-success{
     background-color: #4CAF4F !important;
+    border-color: #4CAF4F !important;;
 }
 .special-text-deep{
     color: #4CAF4F !important;;
@@ -24,6 +25,7 @@
 .banner{
     padding: 98px 60px !important;
 }
+
 @media (max-width:740px) {
     .card{
         width: 100% !important;
