@@ -25,7 +25,9 @@
 .banner{
     padding: 98px 60px !important;
 }
-
+.flex-shrink-1 {
+    flex-shrink: 1.2!important;
+}
 @media (max-width:740px) {
     .card{
         width: 100% !important;
