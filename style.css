@@ -28,6 +28,10 @@
 .flex-shrink-1 {
     flex-shrink: 1.2!important;
 }
+/* our client  */
+.icon-size{
+    max-width: 45px !important;
+}
 @media (max-width:740px) {
     .card{
         width: 100% !important;
