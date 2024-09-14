@@ -32,8 +32,20 @@
 .icon-size{
     max-width: 45px !important;
 }
+/* caring  */
+.card-bg{
+    background-color:#F5F7FA;
+
+}
+.mb-6{
+    margin-bottom: 7rem !important;
+}
+
 @media (max-width:740px) {
     .card{
         width: 100% !important;
+    }
+    .h-sm-75{
+        height: 75% !important;
     }
 }
