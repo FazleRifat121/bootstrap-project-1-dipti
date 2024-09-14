@@ -21,6 +21,9 @@
     padding: 48px 60px;
     margin: 50px 0;
 }
+.bg-ash{
+    background-color: #717171;
+}
 /* banner section  */
 .banner{
     padding: 98px 60px !important;
@@ -40,7 +43,13 @@
 .mb-6{
     margin-bottom: 7rem !important;
 }
-
+.fs-0{
+    font-size: 50px;
+}
+.form-control::placeholder { 
+    color: rgb(176, 171, 171) !important;
+    opacity: 1; 
+}
 @media (max-width:740px) {
     .card{
         width: 100% !important;
